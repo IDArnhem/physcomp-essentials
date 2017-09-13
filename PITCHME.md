@@ -80,7 +80,7 @@ If you just need a few pins for your project, why use a whole Arduino?
 
 The supertiny Attiny85 protoboard
 
-![Digispark](https://www.tinytronics.nl/shop/image/cache/data/product-308/Digispark_1-1000x1000.JPG)
+![Digispark](https://img.banggood.com/thumb/view/2014/xiemeijuan/10/SKU172392/SKU172392b.jpg)
 
 ---
 ## Capacitive Sensing
