@@ -26,6 +26,11 @@ electronics let us bridge the gap between the digital domain and the physical wo
 ![PIC microcontroller](https://www.elprocus.com/wp-content/uploads/2013/02/33.jpg)
 
 your washing machine has one
+
++++
+### there are more microcontrollers in the world than there are computers
+so there are many different kinds but in this course we will be dealing primarily with two kinds AVR and ESP82xx
+
 +++
 ### AVR chipset
 most common for the Arduino family of microcontrollers
