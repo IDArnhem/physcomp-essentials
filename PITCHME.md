@@ -28,8 +28,8 @@ electronics let us bridge the gap between the digital domain and the physical wo
 your washing machine has one
 
 +++
-### there are more microcontrollers in the world than there are computers
-so there are many different kinds but in this course we will be dealing primarily with two kinds AVR and ESP82xx
+### there are more microcontrollers in the world than there are full computers
+They are by far the most ubiquitous form of computing. There are many different kinds but in this course we will be dealing primarily with two kinds AVR and ESP82xx
 
 +++
 ### AVR chipset
