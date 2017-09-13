@@ -69,3 +69,42 @@ If you just need a few pins for your project, why use a whole Arduino?
 ### Attiny85 pinout
 
 ![Attiny85 pinout](https://cdn.sparkfun.com/assets/f/8/f/d/9/52713d5b757b7fc0658b4567.png)
+
+
+---
+## Capacitive Sensing
+
+turning (almost) everything into a sensor
++++
+### behold the banana piano
+
+![banana piano](https://www.youtube.com/watch?v=Lbkw0LFVZDI)
+
++++
+### how it works
+
+![Shunt flow](http://www.sensorwiki.org/lib/exe/fetch.php/sensors/shunt_mode.png?w=&h=&cache=cache)
++++
+### read more about it
+
+https://www.bareconductive.com/make/what-is-capacitive-sensing/
+
++++
+### touchscreens are capacitive sensors too
+
+![touchscreen](http://m.eet.com/media/1157903/caponefig1.gif)
++++
+### examples: graphite (pencil)
+
+![pencil](https://www.youtube.com/watch?v=uPoKn4mbrQk)
+
+responsive drawings
++++
+### wiring your Arduino
+![capacitive arduino](https://i.stack.imgur.com/zq7rx.png)
++++
+### arduino library
+
+http://playground.arduino.cc/Main/CapacitiveSensor
+
+this does all the hard (calibration) work for you
