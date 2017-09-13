@@ -85,9 +85,11 @@ turning (almost) everything into a sensor
 
 ![Shunt flow](http://www.sensorwiki.org/lib/exe/fetch.php/sensors/shunt_mode.png?w=&h=&cache=cache)
 +++
-### read more about it
+### what can you sense?
 
-https://www.bareconductive.com/make/what-is-capacitive-sensing/
+  - proximity
+  - touch (contact)
+  - position (in an array of capacitive sensors)
 
 +++
 ### touchscreens are capacitive sensors too
@@ -108,3 +110,20 @@ responsive drawings
 http://playground.arduino.cc/Main/CapacitiveSensor
 
 this does all the hard (calibration) work for you
++++
+## more examples
+
+![MIT musical Levi's jacket](http://web.media.mit.edu/~joep/SpectrumWeb/captions/Jackets.GIF)
+
+MIT musical Levi's Jacket
++++
+### MIT musical Levi's Jacket
+![video](http://www.media.mit.edu/~joep/MPEGs/jacket.mpg)
+
++++
+### Google's project Jacquard jacket
+![project jackard](https://www.youtube.com/embed/grKHwQIaiaA)
+
+### read more about it
+
+https://www.bareconductive.com/make/what-is-capacitive-sensing/
