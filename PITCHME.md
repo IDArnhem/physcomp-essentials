@@ -145,6 +145,22 @@ capacitance is not just a quality of the human skin, cats can do it too
 more details @ http://duoskin.media.mit.edu/
 
 +++
+## "BOTANICUS INTERACTICUS": Interactive Plant Technology
+
+![disney plants](https://www.youtube.com/embed/EcRSKEIucjk)
+
+[more info](https://www.disneyresearch.com/project/botanicus-interacticus-interactive-plant-technology/)
+
++++
+# Media Vintage, Melissa Coleman
+
+http://melissacoleman.nl/media_vintage/
+
++++
+# Jean Paul George & Me
+![band on a shirt](https://player.vimeo.com/video/132808247)
+
++++
 ### read more about capacitive sensing
 
 https://www.bareconductive.com/make/what-is-capacitive-sensing/
