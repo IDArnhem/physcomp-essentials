@@ -178,3 +178,10 @@ Our little Arduino circuit is handy but not very sophisticated, [there are other
 ## read more about capacitive sensing
 
 https://www.bareconductive.com/make/what-is-capacitive-sensing/
+
+---
+# Assignment
+
+Capacitive sensing is a tricky sensing modality. On the surface the technique is very very simple, but the magic depends very much on the material you use for the sensing.
+
+For next week, use your simple circuit and investigate materials that you can use and sketch out possible interactions that make sense with those materials. Bring **swatches** of the materials so that we can try them out live in class.
