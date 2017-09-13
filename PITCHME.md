@@ -61,14 +61,14 @@ much more powerful microcontroller, supports WiFi, a lot more memory (4Mb), can 
 +++
 ### Attiny85
 
-![Attiny85](https://cdn.sparkfun.com//assets/parts/2/9/7/0/09378-1.jpg)
+![Attiny85](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToQP1OoeXTy_9duz56s40DH7enrHFN_1tSgCgvXNPvcRq8itNnXw)
 
 If you just need a few pins for your project, why use a whole Arduino?
 (note: needs a USB programmer)
 +++
 ### Attiny85 pinout
 
-![Attiny85 pinout](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToQP1OoeXTy_9duz56s40DH7enrHFN_1tSgCgvXNPvcRq8itNnXw)
+![Attiny85 pinout](https://cdn.sparkfun.com/assets/f/8/f/d/9/52713d5b757b7fc0658b4567.png)
 
 
 ---
