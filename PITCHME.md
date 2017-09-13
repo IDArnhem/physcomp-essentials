@@ -38,8 +38,7 @@ most common for the Arduino family of microcontrollers
 +++
 ### Arduino Nano
 
----?image=
-https://twinschip.com/image/cache/data/%20Developer%20Boards/Board/Arduino/Electronics-DIY-Arduino-Nano-v3.0-Mini-ATmega328-Board-1_10-366-550x650.jpg&size=auto 75%
+![Arduino Nano](https://twinschip.com/image/cache/data/%20Developer%20Boards/Board/Arduino/Electronics-DIY-Arduino-Nano-v3.0-Mini-ATmega328-Board-1_10-366-550x650.jpg)
 
 +++
 ### ESP82xx
