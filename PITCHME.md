@@ -122,6 +122,18 @@ MIT musical Levi's Jacket
 http://www.media.mit.edu/~joep/MPEGs/jacket.mpg
 
 +++
+### Theremin
+
+![Leon Theremin](https://www.youtube.com/embed/w5qf9O6c20o)
+
+Leon Theremin playing the electronic instrument that he invented
++++
+
+![cat video](https://www.youtube.com/embed/bXn4_JkVFVo)
+
+capacitance is not just a quality of the human skin, cats can do it too
+
++++
 ### Google's project Jacquard jacket
 ![project jackard](https://www.youtube.com/embed/grKHwQIaiaA)
 
