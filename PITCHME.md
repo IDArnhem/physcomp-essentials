@@ -152,15 +152,29 @@ more details @ http://duoskin.media.mit.edu/
 [more info](https://www.disneyresearch.com/project/botanicus-interacticus-interactive-plant-technology/)
 
 +++
-# Media Vintage, Melissa Coleman
+## Media Vintage, Melissa Coleman
 
 http://melissacoleman.nl/media_vintage/
 
 +++
-# Jean Paul George & Me
+## Jean Paul George & Me
 ![band on a shirt](https://player.vimeo.com/video/132808247)
 
 +++
-### read more about capacitive sensing
+## beyond basics
+
+![12-pad arduino shield](https://cdn-shop.adafruit.com/970x728/2024-03.jpg)
+
+Our little Arduino circuit is handy but not very sophisticated, [there are other platforms specialized in capacitive sensing](https://www.adafruit.com/product/2024).
+
+
+
++++
+## Touch Board, Bare Conductive
+
+![video](https://www.youtube.com/embed/dKFRweXei90)
+
++++
+## read more about capacitive sensing
 
 https://www.bareconductive.com/make/what-is-capacitive-sensing/
