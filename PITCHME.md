@@ -61,14 +61,14 @@ much more powerful microcontroller, supports WiFi, a lot more memory (4Mb), can 
 +++
 ### Attiny85
 
-![Attiny85](http://imageresize.org/Output/8d2e223e-5087-4f36-876e-60cdab5a6fe4.jpg)
+![Attiny85](https://cdn.sparkfun.com//assets/parts/2/9/7/0/09378-1.jpg)
 
 If you just need a few pins for your project, why use a whole Arduino?
 (note: needs a USB programmer)
 +++
 ### Attiny85 pinout
 
-![Attiny85 pinout](https://cdn.sparkfun.com/assets/f/8/f/d/9/52713d5b757b7fc0658b4567.png)
+![Attiny85 pinout](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToQP1OoeXTy_9duz56s40DH7enrHFN_1tSgCgvXNPvcRq8itNnXw)
 
 
 ---
@@ -78,7 +78,7 @@ turning (almost) everything into a sensor
 +++
 ### behold the banana piano
 
-![banana piano](https://www.youtube.com/watch?v=Lbkw0LFVZDI)
+![banana piano](https://www.youtube.com/embed/Lbkw0LFVZDI)
 
 +++
 ### how it works
@@ -96,7 +96,7 @@ https://www.bareconductive.com/make/what-is-capacitive-sensing/
 +++
 ### examples: graphite (pencil)
 
-![pencil](https://www.youtube.com/watch?v=uPoKn4mbrQk)
+![pencil](https://www.youtube.com/embed/uPoKn4mbrQk)
 
 responsive drawings
 +++
