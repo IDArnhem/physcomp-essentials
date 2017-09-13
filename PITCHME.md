@@ -21,50 +21,35 @@ The Kinect introduced skeletal tracking for full-body interactions but as you ca
 ---
 electronics let us bridge the gap between the digital domain and the physical world
 ---
-### Microcontrollers
+### Microcontrollers (MCUs)
 
 ![PIC microcontroller](https://www.elprocus.com/wp-content/uploads/2013/02/33.jpg)
 
 your washing machine has one
 
 +++
-### there are more microcontrollers in the world than there are full computers
-They are by far the most ubiquitous form of computing. There are many different kinds but in this course we will be dealing primarily with two kinds AVR and ESP82xx
+##### there are more MCUs in the world than there are CPUs
+They are by far the most ubiquitous form of computing. There are many different kinds but in this course we will be dealing primarily with two kinds AVR and ESP82xx.
 
 +++
-### AVR chipset
-most common for the Arduino family of microcontrollers
+# AVR chipset
+Made by a company named Atmel, is the kind used in many of the Arduino family of MCUs. There are many AVR chips and the area of embedded electronics has been exploding the last two years.
++++
+### Arduino UNO
+
+Trusty old friend that never disappoints, big, bulky, reliable and slow. Great for the classroom, we all need one of these to sketch on, but it's too big and too **expensive** for project work.
 
 +++
 ### Arduino Nano
 
 ![Arduino Nano](https://twinschip.com/image/cache/data/%20Developer%20Boards/Board/Arduino/Electronics-DIY-Arduino-Nano-v3.0-Mini-ATmega328-Board-1_10-366-550x650.jpg)
-
-+++
-### ESP82xx
-much more powerful microcontroller, supports WiFi, a lot more memory (4Mb), can be programmed with Arduino toolchain
-
-+++
-### Adafruit Featherboard HUZZAH
-
-![HUZZAH](https://cdn-shop.adafruit.com/480x360/3405-06.jpg)
-
-18.50,- EUR in floris.cc
-
-+++
-### Wemos D1 mini Pro
-
-![Wemos D1](https://www.cnx-software.com/wp-content/uploads/2016/09/Wemos_D1_mini_Pro.jpg)
-
-8,- EUR in tinytronics.nl
-
 +++
 ### Attiny85
 
 ![Attiny85](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToQP1OoeXTy_9duz56s40DH7enrHFN_1tSgCgvXNPvcRq8itNnXw)
 
 If you just need a few pins for your project, why use a whole Arduino?
-(note: needs a USB programmer)
+(note: needs a USB programmer, see next slide)
 +++
 ### The ATtiny85 programmer
 
@@ -81,6 +66,29 @@ If you just need a few pins for your project, why use a whole Arduino?
 The supertiny Attiny85 protoboard
 
 ![Digispark](https://img.banggood.com/thumb/view/2014/xiemeijuan/10/SKU172392/SKU172392b.jpg)
+
++++
+### Other ATtinies
+
+Atmel makes about 45 different varieties of the ATtiny series of MCUs. Enough to make your head spin. So if the Attiny85 doesn't suit your needs there's plenty to choose from. [See full product list here](http://www.atmel.com/products/microcontrollers/avr/tinyavr.aspx).
+
++++
+### ESP82xx
+Much more powerful MCU, supports in-chip WiFi, a lot more memory (4Mb), can be programmed with the same Arduino toolchain that you have grown used to. Popular for IoT applications.
+
++++
+### Adafruit Featherboard HUZZAH
+
+![HUZZAH](https://cdn-shop.adafruit.com/480x360/3405-06.jpg)
+
+18.50,- EUR in floris.cc
+
++++
+### Wemos D1 mini Pro
+
+![Wemos D1](https://www.cnx-software.com/wp-content/uploads/2016/09/Wemos_D1_mini_Pro.jpg)
+
+8,- EUR in tinytronics.nl, cheaper from Chinese supplier
 
 ---
 ## Capacitive Sensing
@@ -113,19 +121,29 @@ turning (almost) everything into a sensor
 
 responsive drawings
 +++
-### wiring your Arduino
+### while we are on graphite
+
+![Drawudio](https://www.youtube.com/embed/PV_w38ldZaE)
+
+[Drawudio a small step for a human, a great step for humanity](http://drawdio.com/) from MIT's **Lifelong Kindergarden** research group.
+
++++
+## exercise: wiring your Arduino
 ![capacitive arduino](https://i.stack.imgur.com/zq7rx.png)
 +++
 ### arduino library
 
 http://playground.arduino.cc/Main/CapacitiveSensor
 
-this does all the hard (calibration) work for you
+This does all the hard (calibration) work for you, get it from **sketch > library > add library...**
 +++
 ### exercise
 
 let's try getting some input signal from our piece of tinfoil
 
++++
+### capacitive sensing
+Is one of the fundamentals of interaction and it goes way back, however its a technique wide open to creativity and material research so the possibilities are endless, here are some examples old and new.
 +++
 ### Interactive denim
 
