@@ -61,7 +61,7 @@ much more powerful microcontroller, supports WiFi, a lot more memory (4Mb), can 
 +++
 ### Attiny85
 
-![Attiny85](https://www.floris.cc/shop/963-thickbox_default/avr-8-pin-20mhz-8k-4ad-attiny85.jpg)
+![Attiny85](http://imageresize.org/Output/8d2e223e-5087-4f36-876e-60cdab5a6fe4.jpg)
 
 If you just need a few pins for your project, why use a whole Arduino?
 (warning: needs a USB programmer)
