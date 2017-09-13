@@ -42,9 +42,21 @@ much more powerful microcontroller, supports WiFi, a lot more memory (4Mb), can 
 +++
 ### Adafruit Featherboard HUZZAH
 
-![Arduino Nano](https://twinschip.com/image/cache/data/%20Developer%20Boards/Board/Arduino/Electronics-DIY-Arduino-Nano-v3.0-Mini-ATmega328-Board-1_10-366-550x650.jpg)
+![HUZZAH](https://cdn-shop.adafruit.com/480x360/3405-06.jpg)
+
+18.50,- EUR in floris.cc
 
 +++
 ### Wemos D1 mini Pro
 
-![Arduino Nano](https://twinschip.com/image/cache/data/%20Developer%20Boards/Board/Arduino/Electronics-DIY-Arduino-Nano-v3.0-Mini-ATmega328-Board-1_10-366-550x650.jpg)
+![Wemos D1](https://www.cnx-software.com/wp-content/uploads/2016/09/Wemos_D1_mini_Pro.jpg)
+
+8,- EUR in tinytronics.nl
+
++++
+### Attiny85
+
+![Attiny85](https://www.floris.cc/shop/963-thickbox_default/avr-8-pin-20mhz-8k-4ad-attiny85.jpg)
+
+If you just need a few pins for your project, why use a whole Arduino?
+(warning: needs a USB programmer)
