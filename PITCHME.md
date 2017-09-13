@@ -66,10 +66,21 @@ much more powerful microcontroller, supports WiFi, a lot more memory (4Mb), can 
 If you just need a few pins for your project, why use a whole Arduino?
 (note: needs a USB programmer)
 +++
+### The ATtiny85 programmer
+
+![Attiny programmer](https://www.floris.cc/shop/1299-large_default/tiny-avr-programmer.jpg)
+
++++
 ### Attiny85 pinout
 
 ![Attiny85 pinout](https://cdn.sparkfun.com/assets/f/8/f/d/9/52713d5b757b7fc0658b4567.png)
 
++++
+### Meet the Digispark
+
+The supertiny Attiny85 protoboard
+
+![Digispark](https://www.tinytronics.nl/shop/image/cache/data/product-308/Digispark_1-1000x1000.JPG)
 
 ---
 ## Capacitive Sensing
