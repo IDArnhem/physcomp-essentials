@@ -103,6 +103,8 @@ turning (almost) everything into a sensor
 ### how it works
 
 ![Shunt flow](http://www.sensorwiki.org/lib/exe/fetch.php/sensors/shunt_mode.png?w=&h=&cache=cache)
+
+[read more theory here](http://www.sensorwiki.org/doku.php/sensors/capacitive?s[]=capacitive)
 +++
 ### what can you sense?
 
@@ -162,46 +164,62 @@ http://www.media.mit.edu/~joep/MPEGs/jacket.mpg
 
 Leon Theremin playing the electronic instrument that he invented
 +++
-
 ![cat video](https://www.youtube.com/embed/bXn4_JkVFVo)
 
-capacitance is not just a quality of the human skin, cats can do it too
+capacitance is not just a quality of the human skin, **kat haz it too**
 
 +++
-### Google's project Jacquard jacket
+### Google project Jacquard
+
 ![project jackard](https://www.youtube.com/embed/grKHwQIaiaA)
+
++++
+### Google's & Levi's Commuter jacket
+
+![commuter jacket](https://www.youtube.com/embed/yJ-lcdMfziw)
 
 +++
 ### DuoSkin
 
 ![duo skin](https://player.vimeo.com/video/178334883)
 
-more details @ http://duoskin.media.mit.edu/
-
+MIT and Microsoft, read more about it @ http://duoskin.media.mit.edu/
 +++
 ### "BOTANICUS INTERACTICUS": Interactive Plant Technology
 
 ![disney plants](https://www.youtube.com/embed/EcRSKEIucjk)
 
-[more info](https://www.disneyresearch.com/project/botanicus-interacticus-interactive-plant-technology/)
+Disney Research [more info](https://www.disneyresearch.com/project/botanicus-interacticus-interactive-plant-technology/)
+
++++
+### Pulp-based Computing, Marcelo Coehlo
+
+![Pulp-Based Computing](https://player.vimeo.com/video/4272607)
+
+[see more from this project at Marcelo Coehlo's site](http://www.cmarcelo.com/pulp-based-computing/)
+
++++
+### Workshop PapierBoisCarton
+
+![PapierBoisCarton](https://www.youtube.com/embed/fMmZoJJXdhs)
 
 +++
 ### Media Vintage, Melissa Coleman
 
 http://melissacoleman.nl/media_vintage/
 
+no hard PCB electronics
 +++
 ### Jean Paul George & Me
 ![band on a shirt](https://player.vimeo.com/video/132808247)
 
+album release including interactive musical shirt for kids
 +++
 ### beyond basics
 
 ![12-pad arduino shield](https://cdn-shop.adafruit.com/970x728/2024-03.jpg)
 
 Our little Arduino circuit is handy but not very sophisticated, [there are other platforms specialized in capacitive sensing](https://www.adafruit.com/product/2024). That will allow you to work with more materials and get better readings.
-
-
 
 +++
 ### Touch Board, Bare Conductive
@@ -216,6 +234,6 @@ https://www.bareconductive.com/make/what-is-capacitive-sensing/
 ---
 # Assignment
 
-Capacitive sensing is a tricky sensing modality. On the surface the technique is very very simple, but the magic depends very much on the material you use for the sensing.
+Capacitive sensing is a tricky sensing modality. On the surface the technique seems very very simple, but the magic depends very much on the material you use for the sensing.
 
 For next week, use your simple circuit and investigate materials that you can use and sketch out possible interactions that make sense with those materials. Bring **swatches** of the materials so that we can try them out live in class.
