@@ -118,7 +118,8 @@ this does all the hard (calibration) work for you
 MIT musical Levi's Jacket
 +++
 ### MIT musical Levi's Jacket
-![video](http://www.media.mit.edu/~joep/MPEGs/jacket.mpg)
+
+http://www.media.mit.edu/~joep/MPEGs/jacket.mpg
 
 +++
 ### Google's project Jacquard jacket
