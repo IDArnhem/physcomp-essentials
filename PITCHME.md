@@ -3,7 +3,7 @@
 ---
 ### how the computer sees you
 
-![Tom Igoe Human](https://interactiondesign.files.wordpress.com/2011/06/igoefinger.jpg | width=100)
+![Tom Igoe Human](https://interactiondesign.files.wordpress.com/2011/06/igoefinger.jpg|width=80)
 
 Touchscreens, touchpads and Kinect have changed this perception a little but it remains largely the same.
 
