@@ -137,6 +137,14 @@ capacitance is not just a quality of the human skin, cats can do it too
 ### Google's project Jacquard jacket
 ![project jackard](https://www.youtube.com/embed/grKHwQIaiaA)
 
-### read more about it
++++
+# DuoSkin
+
+![duo skin](https://player.vimeo.com/video/178334883)
+
+more details @ http://duoskin.media.mit.edu/
+
++++
+### read more about capacitive sensing
 
 https://www.bareconductive.com/make/what-is-capacitive-sensing/
