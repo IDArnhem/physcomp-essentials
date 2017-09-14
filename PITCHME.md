@@ -219,7 +219,7 @@ album release including interactive musical shirt for kids
 +++
 ### beyond basics
 
-![12-pad arduino shield](http://res.cloudinary.com/zilogtastic/image/upload/c_scale,h_450/v1505409006/2024-03_g9ruoc.jpg)
+![12-pad arduino shield](http://res.cloudinary.com/zilogtastic/image/upload/c_scale,h_400/v1505409006/2024-03_g9ruoc.jpg)
 
 Our little Arduino circuit is handy but not very sophisticated, [there are other platforms specialized in capacitive sensing](https://www.adafruit.com/product/2024). That will allow you to work with more materials and get better readings.
 
