@@ -157,7 +157,7 @@ MIT musical Levi's Jacket
 ### MIT musical Levi's Jacket
 
 <video width="640" height="480" controls>
-  <source src="http://res.cloudinary.com/zilogtastic/video/upload/v1505408984/jacket_ewjvrl.mpeg">
+  <source src="http://res.cloudinary.com/zilogtastic/video/upload/v1505408984/jacket_ewjvrl.webm">
 Your browser does not support the video tag.
 </video>
 
