@@ -114,7 +114,7 @@ turning (almost) everything into a sensor
   - position (in an array of capacitive sensors)
 
 +++
-### touchscreens are capacitive sensors too
+##### touchscreens are capacitive sensors too
 
 ![touchscreen](http://res.cloudinary.com/zilogtastic/image/upload/v1505410629/touch-screen-technology_wqcfeq.gif)
 +++
@@ -131,7 +131,7 @@ responsive drawings
 [Drawudio a small step for a human, a great step for humanity](http://drawdio.com/) from MIT's **Lifelong Kindergarden** research group.
 
 +++
-## exercise: wiring your Arduino
+### exercise: wiring your Arduino
 ![capacitive arduino](https://i.stack.imgur.com/zq7rx.png)
 +++
 ### arduino library
