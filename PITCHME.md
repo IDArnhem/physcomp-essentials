@@ -236,4 +236,4 @@ https://www.bareconductive.com/make/what-is-capacitive-sensing/
 
 Capacitive sensing is a tricky sensing modality. On the surface the technique seems very very simple, but the magic depends very much on the material you use for the sensing.
 
-For next week, use your simple circuit and investigate materials that you can use and sketch out possible interactions that make sense with those materials. Bring **swatches** of the materials so that we can try them out live in class.
+For next week, use your simple circuit and investigate materials that you can use and sketch out possible interactions that make sense with those materials. Please each bring 5x **swatches** of the materials so that we can try them out live in class.
