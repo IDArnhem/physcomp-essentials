@@ -221,7 +221,7 @@ album release including interactive musical shirt for kids
 
 ![12-pad arduino shield](http://res.cloudinary.com/zilogtastic/image/upload/c_scale,h_400/v1505409006/2024-03_g9ruoc.jpg)
 
-Our little Arduino circuit is handy but not very sophisticated, [there are other platforms specialized in capacitive sensing](https://www.adafruit.com/product/2024). That will allow you to work with more materials and get better readings.
+Our little Arduino circuit is handy but not very sophisticated, there are other platforms specialized in capacitive sensing. That will allow you to work with more materials and get better readings. [Like this one from Adafruit](https://www.adafruit.com/product/2024).
 
 +++
 ### Touch Board, Bare Conductive
