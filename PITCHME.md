@@ -5,7 +5,7 @@ turning everything into a computer
 ---
 ### how the computer sees you
 
-![Tom Igoe Human](https://interactiondesign.files.wordpress.com/2011/06/igoefinger.jpg)
+![Tom Igoe Human](http://res.cloudinary.com/zilogtastic/image/upload/v1505408559/igoefinger_ie2ihx.jpg)
 
 
 +++
@@ -14,7 +14,7 @@ Touchscreens, touchpads and Kinect have changed this perception a little but it 
 
 ---
 ### Kinect
-![Skeletal tracking](http://psychic-vr-lab.com/blog/wp-content/uploads/2015/03/kinect4.png)
+![Skeletal tracking](http://res.cloudinary.com/zilogtastic/image/upload/v1505408570/kinect4_wnlfpb.png)
 
 
 The Kinect introduced skeletal tracking for full-body interactions but as you can see the image that the computer has of the human is still **reductionist** at best.
@@ -24,7 +24,7 @@ electronics let us bridge the gap between the digital domain and the physical wo
 ---
 ### Microcontrollers (MCUs)
 
-![PIC microcontroller](https://www.elprocus.com/wp-content/uploads/2013/02/33.jpg)
+![PIC microcontroller](http://res.cloudinary.com/zilogtastic/image/upload/v1505408580/33_bdso4q.jpg)
 
 your washing machine has one
 
@@ -43,30 +43,30 @@ Trusty old friend that never disappoints, big, bulky, reliable and slow. Great f
 +++
 ### Arduino Nano
 
-![Arduino Nano](https://twinschip.com/image/cache/data/%20Developer%20Boards/Board/Arduino/Electronics-DIY-Arduino-Nano-v3.0-Mini-ATmega328-Board-1_10-366-550x650.jpg)
+![Arduino Nano](http://res.cloudinary.com/zilogtastic/image/upload/c_scale,h_410/v1505408591/Electronics-DIY-Arduino-Nano-v3.0-Mini-ATmega328-Board-1_10-366-550x650_dmldfg.jpg)
 +++
 ### Attiny85
 
-![Attiny85](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToQP1OoeXTy_9duz56s40DH7enrHFN_1tSgCgvXNPvcRq8itNnXw)
+![Attiny85](http://res.cloudinary.com/zilogtastic/image/upload/c_scale,h_410/v1505408635/09378-1_okao4b.jpg)
 
 If you just need a few pins for your project, why use a whole Arduino?
 (note: needs a USB programmer, see next slide)
 +++
 ### The ATtiny85 programmer
 
-![Attiny programmer](https://www.floris.cc/shop/1299-large_default/tiny-avr-programmer.jpg)
+![Attiny programmer](http://res.cloudinary.com/zilogtastic/image/upload/c_scale,h_410/v1505408774/tiny-avr-programmer_dsjkc2.jpg)
 
 +++
 ### Attiny85 pinout
 
-![Attiny85 pinout](https://cdn.sparkfun.com/assets/f/8/f/d/9/52713d5b757b7fc0658b4567.png)
+![Attiny85 pinout](http://res.cloudinary.com/zilogtastic/image/upload/c_scale,h_430/v1505408652/52713d5b757b7fc0658b4567_h7idgb.png)
 
 +++
 ### Meet the Digispark
 
 The supertiny Attiny85 protoboard
 
-![Digispark](https://img.banggood.com/thumb/view/2014/xiemeijuan/10/SKU172392/SKU172392b.jpg)
+![Digispark](http://res.cloudinary.com/zilogtastic/image/upload/c_scale,h_420/v1505408867/SKU172392b_mh5dcp.jpg)
 
 +++
 ### Other ATtinies
@@ -80,14 +80,14 @@ Much more powerful MCU, supports in-chip WiFi, a lot more memory (4Mb), can be p
 +++
 ### Adafruit Featherboard HUZZAH
 
-![HUZZAH](https://cdn-shop.adafruit.com/480x360/3405-06.jpg)
+![HUZZAH](http://res.cloudinary.com/zilogtastic/image/upload/c_scale,h_410/v1505408916/2821-01_w3lriy.jpg)
 
 18.50,- EUR in floris.cc
 
 +++
 ### Wemos D1 mini Pro
 
-![Wemos D1](https://www.cnx-software.com/wp-content/uploads/2016/09/Wemos_D1_mini_Pro.jpg)
+![Wemos D1](http://res.cloudinary.com/zilogtastic/image/upload/c_scale,h_410/v1505408930/Wemos_D1_mini_Pro_jf1tqp.jpg)
 
 8,- EUR in tinytronics.nl, cheaper from Chinese supplier
 
@@ -103,7 +103,7 @@ turning (almost) everything into a sensor
 +++
 ### how it works
 
-![Shunt flow](http://www.sensorwiki.org/lib/exe/fetch.php/sensors/shunt_mode.png?w=&h=&cache=cache)
+![Shunt flow](http://res.cloudinary.com/zilogtastic/image/upload/v1505408949/shunt_mode_sq5l1m.png)
 
 [read more theory here](http://www.sensorwiki.org/doku.php/sensors/capacitive?s[]=capacitive)
 +++
@@ -116,7 +116,7 @@ turning (almost) everything into a sensor
 +++
 ### touchscreens are capacitive sensors too
 
-![touchscreen](http://m.eet.com/media/1157903/caponefig1.gif)
+![touchscreen](http://res.cloudinary.com/zilogtastic/image/upload/v1505410629/touch-screen-technology_wqcfeq.gif)
 +++
 ### examples: graphite (pencil)
 
@@ -150,13 +150,18 @@ Is one of the fundamentals of interaction and it goes way back, however its a te
 +++
 ### Interactive denim
 
-![MIT musical Levi's jacket](http://web.media.mit.edu/~joep/SpectrumWeb/captions/Jackets.GIF)
+![MIT musical Levi's jacket](http://res.cloudinary.com/zilogtastic/image/upload/v1505410681/Jackets_rhilqe.gif)
 
 MIT musical Levi's Jacket
 +++
 ### MIT musical Levi's Jacket
 
-http://www.media.mit.edu/~joep/MPEGs/jacket.mpg
+<video width="640" height="480" controls>
+  <source src="http://res.cloudinary.com/zilogtastic/video/upload/v1505408984/jacket_ewjvrl.mpeg">
+Your browser does not support the video tag.
+</video>
+
+
 
 +++
 ### Theremin
