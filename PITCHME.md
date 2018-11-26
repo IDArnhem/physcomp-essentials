@@ -71,7 +71,7 @@ The supertiny Attiny85 protoboard
 +++
 ### The HvA's XMega
 
-![XMega](https://res.cloudinary.com/zilogtastic/image/upload/c_scale,w_420/v1543222653/IMG_6443_dfodie.jpg)
+![XMega](https://res.cloudinary.com/zilogtastic/image/upload/c_scale,w_600/v1543222653/IMG_6443_dfodie.jpg)
 
 +++
 ### Other ATtinies
