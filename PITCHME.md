@@ -69,6 +69,11 @@ The supertiny Attiny85 protoboard
 ![Digispark](http://res.cloudinary.com/zilogtastic/image/upload/c_scale,h_420/v1505408867/SKU172392b_mh5dcp.jpg)
 
 +++
+### The HvA's XMega
+
+![XMega](https://res.cloudinary.com/zilogtastic/image/upload/c_scale,w_420/v1543222653/IMG_6443_dfodie.jpg)
+
++++
 ### Other ATtinies
 
 Atmel makes about 45 different varieties of the ATtiny series of MCUs. Enough to make your head spin. So if the Attiny85 doesn't suit your needs there's plenty to choose from. [See full product list here](http://www.atmel.com/products/microcontrollers/avr/tinyavr.aspx).
